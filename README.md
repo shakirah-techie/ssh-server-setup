@@ -49,7 +49,7 @@ note: use whoami to get username
 5. **Security Enhancements**
 
    Disabled root login
-   Changed the default SSH port
+   Change the default SSH port
 
 Author: Shakirat Abdulazeez
 
