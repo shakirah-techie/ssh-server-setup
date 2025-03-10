@@ -46,6 +46,12 @@ This project documents how to install, configure, and secure an SSH server on Ub
 
 note: use whoami to get username
 
+5. **Security Enhancements**
 
+   Disabled root login
+   Changed the default SSH port
 
 Author: Shakirat Abdulazeez
+
+
+
